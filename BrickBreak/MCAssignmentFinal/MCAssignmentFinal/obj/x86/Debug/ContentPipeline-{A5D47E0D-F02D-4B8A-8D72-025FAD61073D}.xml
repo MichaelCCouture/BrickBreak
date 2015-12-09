@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>fonts\menuFont.spritefont</Source>
+      <Name>fonts\menuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinal\bin\x86\Debug\Content\fonts\menuFont.xnb</Output>
+      <Time>2014-12-08T11:45:42.5164963-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\hilightFont.spritefont</Source>
+      <Name>fonts\hilightFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinal\bin\x86\Debug\Content\fonts\hilightFont.xnb</Output>
+      <Time>2014-12-08T11:46:54.048641-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\scoreBoardFont.spritefont</Source>
+      <Name>fonts\scoreBoardFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinal\bin\x86\Debug\Content\fonts\scoreBoardFont.xnb</Output>
+      <Time>2014-12-10T12:06:24.9852367-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\gameOverFont.spritefont</Source>
+      <Name>fonts\gameOverFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinal\bin\x86\Debug\Content\fonts\gameOverFont.xnb</Output>
+      <Time>2014-12-10T13:01:39.8528685-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\bat.png</Source>
+      <Name>images\bat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinal\bin\x86\Debug\Content\images\bat.xnb</Output>
+      <Time>2014-12-09T16:31:24.6891921-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\box.png</Source>
+      <Name>images\box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinal\bin\x86\Debug\Content\images\box.xnb</Output>
+      <Time>2014-12-09T16:34:12.8827921-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\ball.png</Source>
+      <Name>images\ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinal\bin\x86\Debug\Content\images\ball.xnb</Output>
+      <Time>2014-12-09T16:35:13.5749921-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\explosion.png</Source>
+      <Name>images\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinal\bin\x86\Debug\Content\images\explosion.xnb</Output>
+      <Time>2014-12-10T12:42:24.4311738-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\aboutImage.png</Source>
+      <Name>images\aboutImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinal\bin\x86\Debug\Content\images\aboutImage.xnb</Output>
+      <Time>2014-12-10T13:22:16.8989508-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\howToPlayImage.png</Source>
+      <Name>images\howToPlayImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinal\bin\x86\Debug\Content\images\howToPlayImage.xnb</Output>
+      <Time>2014-12-10T13:26:21.0959508-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\helpImage.png</Source>
+      <Name>images\helpImage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinal\bin\x86\Debug\Content\images\helpImage.xnb</Output>
+      <Time>2014-12-10T14:36:11.9719066-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\gameMusic.mp3</Source>
+      <Name>sounds\gameMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinal\bin\x86\Debug\Content\sounds\gameMusic.xnb</Output>
+      <Extra>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinal\bin\x86\Debug\Content\sounds\gameMusic.wma</Extra>
+      <Time>2014-12-10T13:56:01.2761482-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\menuMusic.mp3</Source>
+      <Name>sounds\menuMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinal\bin\x86\Debug\Content\sounds\menuMusic.xnb</Output>
+      <Extra>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinal\bin\x86\Debug\Content\sounds\menuMusic.wma</Extra>
+      <Time>2014-12-10T14:14:15.5482774-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\bounce.wav</Source>
+      <Name>sounds\bounce</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinal\bin\x86\Debug\Content\sounds\bounce.xnb</Output>
+      <Time>2014-12-10T15:40:08.3107348-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\explode.wav</Source>
+      <Name>sounds\explode</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinal\bin\x86\Debug\Content\sounds\explode.xnb</Output>
+      <Time>2014-12-10T15:40:08.3317348-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\gameOver.wav</Source>
+      <Name>sounds\gameOver</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinal\bin\x86\Debug\Content\sounds\gameOver.xnb</Output>
+      <Time>2014-12-10T15:40:08.3967348-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\winrar.wav</Source>
+      <Name>sounds\winrar</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinal\bin\x86\Debug\Content\sounds\winrar.xnb</Output>
+      <Time>2014-12-10T15:40:08.4417348-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{A5D47E0D-F02D-4B8A-8D72-025FAD61073D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinalContent\</RootDirectory>
+      <LoggerRootDirectory>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinal\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinal\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>G:\Game Programming\MCAssignmentFinal\MCAssignmentFinal\MCAssignmentFinal\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-26T11:24:12.567723-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
